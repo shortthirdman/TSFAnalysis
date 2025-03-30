@@ -9,7 +9,7 @@ Tools and methods for analyzing and forecasting time series data using various m
   - Create a Python virtual environment and activate
 	
 	```shell
-	$ python -m venv dev
+	$ python -m venv --upgrade-deps --clear dev
 	$ ./dev/Scripts/activate
 	$ export PIP_CONFIG_FILE=".\pip.conf"
 	```
