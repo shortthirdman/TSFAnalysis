@@ -4,6 +4,8 @@ Tools and methods for analyzing and forecasting time series data using various m
 
 [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)	![GitHub License](https://img.shields.io/github/license/shortthirdman/TSFAnalysis?style=for-the-badge)	![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/shortthirdman/TSFAnalysis?style=for-the-badge)	![GitHub repo size](https://img.shields.io/github/repo-size/shortthirdman/TSFAnalysis?style=for-the-badge)
 
+---
+
 ## Development
 
   - Create a Python virtual environment and activate
